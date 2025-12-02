@@ -1,6 +1,7 @@
 package com.yunosta.learningmod.item;
 
 import com.yunosta.learningmod.LearningMod;
+import com.yunosta.learningmod.block.ModBlocks;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
@@ -21,6 +22,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.RUBBER.get());
                         output.accept(ModItems.TIRE.get());
                         output.accept(ModItems.RIM.get());
+                        output.accept(ModBlocks.WHEEL_BLOCK.get());
                     }).build());
 
 

@@ -1,7 +1,9 @@
 {
   "item.learningmod.rubber": "Rubber",
   "item.learningmod.tire": "Tire",
-    "item.learningmod.rim": "Rim",
+  "item.learningmod.rim": "Rim",
+
+  "block.learningmod.wheel_block": "Wheel",
 
   "creativetab.learningmod.vehicle_items": "Vehicle Items"
 }

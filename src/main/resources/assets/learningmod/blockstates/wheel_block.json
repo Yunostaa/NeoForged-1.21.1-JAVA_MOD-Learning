@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "learningmod:block/wheel_block"},
+    "facing=south": { "model": "learningmod:block/wheel_block", "y": 180},
+    "facing=east":  { "model": "learningmod:block/wheel_block", "y": 90},
+    "facing=west":  { "model": "learningmod:block/wheel_block", "y": 270},
+    "facing=up":    { "model": "learningmod:block/wheel_block"},
+    "facing=down":  { "model": "learningmod:block/wheel_block"}
+  }
+}

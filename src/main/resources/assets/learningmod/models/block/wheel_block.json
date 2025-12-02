@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "learningmod:block/wheel_side",
+    "down": "learningmod:block/wheel_down",
+    "up": "learningmod:block/wheel_up",
+    "north": "learningmod:block/wheel_face",
+    "south": "learningmod:block/wheel_face",
+    "west": "learningmod:block/wheel_side",
+    "east": "learningmod:block/wheel_side"
+  }
+}
