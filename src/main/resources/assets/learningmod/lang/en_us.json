@@ -1,4 +1,6 @@
 {
   "item.learningmod.caoutchouc": "Caoutchouc",
-  "item.learningmod.tire": "Tire"
+  "item.learningmod.tire": "Tire",
+
+  "creativetab.learningmod.vehicle_items": "Vehicle Items"
 }
