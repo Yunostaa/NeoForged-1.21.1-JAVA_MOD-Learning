@@ -14,6 +14,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final DeferredItem<Item> TIRE = ITEMS.register("tire",
             () -> new Item(new Item.Properties().stacksTo(16)));
+    public static final DeferredItem<Item> RIM = ITEMS.register("rim",
+            () -> new Item(new Item.Properties().stacksTo(16)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

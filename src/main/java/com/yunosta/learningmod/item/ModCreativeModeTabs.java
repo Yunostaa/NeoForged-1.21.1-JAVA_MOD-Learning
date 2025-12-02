@@ -20,6 +20,7 @@ public class ModCreativeModeTabs {
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(ModItems.RUBBER.get());
                         output.accept(ModItems.TIRE.get());
+                        output.accept(ModItems.RIM.get());
                     }).build());
 
 
