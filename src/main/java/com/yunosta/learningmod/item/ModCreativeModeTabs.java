@@ -15,10 +15,10 @@ public class ModCreativeModeTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, LearningMod.MODID);
 
     public static final Supplier<CreativeModeTab> VEHICLE_TAB = CREATIVE_MODE_TAB.register("vehicle_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.CAOUTCHOUC.get()))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.RUBBER.get()))
                     .title(Component.translatable("creativetab.learningmod.vehicle_items"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(ModItems.CAOUTCHOUC.get());
+                        output.accept(ModItems.RUBBER.get());
                         output.accept(ModItems.TIRE.get());
                     }).build());
 

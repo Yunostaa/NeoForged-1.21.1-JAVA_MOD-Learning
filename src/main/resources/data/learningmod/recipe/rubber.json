@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:slime_ball" },
+    { "item": "minecraft:black_dye" }
+  ],
+  "result": {
+    "id": "learningmod:rubber",
+    "count": 1
+  }
+}
