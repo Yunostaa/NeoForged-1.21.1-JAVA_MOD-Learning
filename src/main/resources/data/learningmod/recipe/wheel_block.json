@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "learningmod:tire" },
+    { "item": "learningmod:rim" }
+  ],
+  "result": {
+    "id": "learningmod:wheel_block",
+    "count": 1
+  }
+}
