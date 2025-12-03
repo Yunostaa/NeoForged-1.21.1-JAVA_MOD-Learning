@@ -1,0 +1,9 @@
+{
+  "item.learningmod.rubber": "Caoutchouc",
+  "item.learningmod.tire": "Pneu",
+  "item.learningmod.rim": "Jante",
+
+  "block.learningmod.wheel_block": "Roue",
+
+  "creativetab.learningmod.vehicle_items": "Véhicule Items"
+}
